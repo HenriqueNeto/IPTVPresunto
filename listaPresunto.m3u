@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RJ HD(Opcao 1)
+http://177.12.99.108:8000/play/a005
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RJ HD(Opcao 2)
+http://painel.tvdigitalsbl.net:80/SilviaDiniz/ACSnUnTqbk/467
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RJ
+http://painel.tvdigitalsbl.net:80/SilviaDiniz/ACSnUnTqbk/1506
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO MG HD
+http://painel.tvdigitalsbl.net:80/SilviaDiniz/ACSnUnTqbk/4254
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RBS HD
+http://painel.tvdigitalsbl.net:80/SilviaDiniz/ACSnUnTqbk/4447
+#EXTINF:-1 tvg-logo="http://playhdtv.pw/logs/fox.jpg" group-title="CANAIS DE FILMES",FOX
+http://painel.tvdigitalsbl.net:80/SilviaDiniz/ACSnUnTqbk/972
+#EXTINF:-1,FOX
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2292.m3u8
+#EXTINF:-1,FOX [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7416.m3u8
+#EXTINF:-1,FOX FHD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7186.m3u8
+#EXTINF:-1,FOX HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2291.m3u8
+#EXTINF:-1,FOX HD [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7415.m3u8
+#EXTINF:-1,Fox Life
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2290.m3u8
+#EXTINF:-1,Fox Life [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7414.m3u8
+#EXTINF:-1,Fox Life HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2289.m3u8
+#EXTINF:-1,Fox Life HD [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7413.m3u8
+#EXTINF:-1,Fox Premium 1 [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7412.m3u8
+#EXTINF:-1,Fox Premium 1 HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2288.m3u8
+#EXTINF:-1,Fox Premium 1 HD [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7411.m3u8
+#EXTINF:-1,Fox Premium 2 [Alter]
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7410.m3u8
+#EXTINF:-1,Fox Premium 2 FHD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/7144.m3u8
+#EXTINF:-1,Fox Premium 2 HD
+http://sspitv.liss.fun:8880/live/cordeirokamila/morango1990/2287.m3u8
+#EXTINF:-1,Fox Premium 2 HD [Alter]
+
+
